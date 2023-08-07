@@ -1,0 +1,243 @@
+
+#s
+{
+    height: 200px;
+    width: 1000px;
+    background-color: whitesmoke;
+}
+#div{
+    height: 180px;
+    width: 200px;
+    background-color: rgb(250, 246, 246);
+    float: left;
+     margin-top: 10px;
+    margin-left: 50px; 
+    position: relative;
+    bottom: 40px;
+    
+}
+#h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 400px;
+}
+#h2{
+    margin-top: 2px;
+    margin-left: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(163, 163, 166);
+}
+#image{
+    height: 200px;
+    width: 250px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+#hh{
+    height: 350px;
+    width: 600px;
+    background-color: rgb(168, 167, 166);
+    padding-top: 30px;
+    padding-left: 400px;
+    display: block;
+}
+#sa{
+    position: relative;
+    top: -10px;
+    left: -200px;
+
+}
+#sw{
+    position: relative;
+    top: -25px;
+    left: -370px;float: left;
+
+}#sq
+{
+    position: absolute;
+    top: 1480px;
+    left: 110px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    float: left;
+}
+#sr
+{
+    position: absolute;
+    top: 1460px;
+    left: 350px;
+
+}
+#sy{position: absolute;
+    top: 1480px;
+    left: 350px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    float: left;
+
+}
+#saa{
+    position: absolute;
+    top: 1460px;
+    left: 580px;
+    float: left;
+    
+    
+}
+#saw{position: absolute;
+    top: 1460px;
+    left: 780px;
+    float: left;
+    
+    
+
+}
+#sad{position: absolute;
+    top: 1480px;
+    left: 580px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    float: left;
+
+}
+#sax{position: absolute;
+    top: 1480px;
+    left: 780px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    float: left;
+
+}
+#b{
+    border-radius: 25%;
+    border: 1px solid rgb(168, 150, 47);
+    position: absolute;
+    top: 1640px;
+    left: 470px;
+}
+#sd{
+    height: 148px;
+    width: 160px;
+    
+    border: 3px solid goldenrod;
+    float: left;
+    margin-left: 50px;
+    margin-top: 40px;
+    font-weight: bold ;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+#sf{
+    height: 180px;
+    width: 200px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 40px;
+
+}
+#img{
+    height: 600px;
+    width: 500px;
+    margin-top: 50px;float: left;
+
+}
+#sha{
+    height: 600px;
+    width: 500px;
+    margin-top: 50px;float: left;
+    background-color: rgb(143, 142, 145);
+    
+
+
+}
+#sj{ font-size: 30px;
+    margin-left: 20px;
+    margin-top: 80px;
+}
+#sm{
+    margin-left: 20px;
+    font-size: 20px;
+}
+#be{
+    border: 2px solid goldenrod;
+   position: absolute;
+   top: 2450px;
+   left: 700px;
+   border-radius: 25%;
+}
+#jj{
+    height: 70px;
+    width: 1020px;
+    background-color: rgb(21, 21, 21);
+    position: absolute;
+    top: 2562px;
+    
+    
+}
+#ll{
+    position: absolute;
+    top: 2570;
+    left: 200px;
+    font-size: 20px;
+    color: rgb(195, 183, 115);
+    
+
+}
+#e{
+    position: absolute;
+    top: 100px;
+    left: 80px;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(157, 124, 6);
+}
+#o{
+    position: absolute;
+    top: 250px;
+    left: 80px;
+    font-size: 15px;
+}
+#n{
+    position: absolute;
+    top: 350px;
+    left: 300px;
+    font-size: 15px;
+    border-radius: 25%;
+    border: 2px solid goldenrod;
+}
+i{
+    font-size: 50px;
+    margin-top: 10px;
+    margin-left: 80px;
+    color: goldenrod;
+    
+}
+#k{
+    margin-top:-2px ;
+    margin-left: 10px;
+}
+#m{
+   
+    position: absolute;
+    left: 15px;
+    top: 65px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#g{
+   
+    position: absolute;
+    left: 15px;
+    top: 65px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}#p{
+   
+    position: absolute;
+    left: 30px;
+    top: 60px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+*{
+    margin-left: 20px;
+}
+#rr{
+
+    height:2640px;width: 1050px;background-color: rgb(236, 236, 241);margin-left: 30px;box-shadow: 2px 2px 2px grey;
+}
